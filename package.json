@@ -1,8 +1,6 @@
 {
-  "name": "{{projectName}}",
-  "version": "2.0.7",
+  "name": "Cat Energy",
   "private": true,
-  "description": "Личный проект «{{projectTitle}}» от HTML Academy",
   "type": "module",
   "engines": {
     "node": "^18.18 || ^20.9"
