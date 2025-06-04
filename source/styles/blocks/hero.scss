@@ -1,7 +1,14 @@
-.header {
+.hero {
   font-family: $secondary-font;
   font-size: 20px;
+  color: #000000;
+}
+
+.hero__slogan {
   line-height: 20px;
-  text-transform: uppercase;
+}
+
+.hero__button {
+  line-height: 26px;
   color: #ffffff;
 }
